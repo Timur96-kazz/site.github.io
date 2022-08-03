@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    background-color: yellowgreen;
+}
+
+h1 {
+    color: darkred;
+    background-color: #fff;
+    font-family: fantasy;
+    font-weight: 200;
+}
+
+.one {
+    width: 95%, center;
+    padding: 0;
+    padding-top: 12px;
+    padding-bottom: 6px;
+    background-color: gray;
+    text-align: center;
+    padding-bottom: 12px;
+    border-radius: 8px;
+}
+
+.two {
+    margin-top: 12px;
+    margin-right: 12px;
+    width: 28%;
+    height: 350px;
+    background-color: grey;
+    border-radius: 8px;
+    padding-top: 12px;
+    text-align: center;
+    float: left;
+}
+
+img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.tree {
+    margin-top: 12px;
+    width: 70%;
+    height: 350px;
+    background-color: grey;
+    border-radius: 8px;
+    padding-top: 12px;
+    text-align: center;
+    float: right;
+}
+
+table {
+    margin: 15px;
+    align-content: center;
+    background-color: coral;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 8px;
+    text-align: center;    
+}
+
+.four {
+    background-color: gray;
+    border-radius: 8px;
+    margin-top: 12px;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    float: right;
+    padding-top: 15px;
+}
